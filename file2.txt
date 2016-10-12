@@ -1,0 +1,3 @@
+Di seguito trovate alcune raccomandazioni generali sulla vostra presentazione:
+1) userete tra 12 e 14 diapositive di contenuto tecnico, escludendo dal conto titolo, indice dei contenuti, eventuali ringraziamenti (sconsigliati), tenendo conto di parlare tra 60 e 80 secondi per diapositiva
+2) trattandosi di un esame di laurea in informatica, dovrete usare terminologia informatica e discutere di cose meritevoli di attenzione sul piano informatico; la scaletta generale rispecchierà quella della vostra relazione finale, ma non scolasticamente (cioè traendone solo l'essenza e non la sequenza)
