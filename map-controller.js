@@ -29,6 +29,7 @@
             // .. code ..
         };
 
+
         /**
          * Delete an object from the collection and remove from map
          * @memberof MapController
@@ -40,7 +41,9 @@
             // .. code ..
         };
 
+
         /**
+         *
          * returns the location of an address or 'current-location'
          * @memberof MapController
          * @function getGeoLocation
