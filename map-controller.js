@@ -1,6 +1,6 @@
 (function() {
     'use strict';
-
+    // aggiunta 1 riga
     /**
      * @memberof ngmap
      * @ngdoc controller
